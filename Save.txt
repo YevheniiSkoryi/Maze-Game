@@ -1,0 +1,7 @@
+Quagmire,1
+Quagmire,2
+Quagmire,3
+Peter Griffin,2
+Joe,2
+Quagmire,4
+Quagmire,4
